@@ -1,0 +1,13 @@
+{
+  "name": "atividade5",
+  "version": "1.0.0",
+  "description": "Agendamento de consulta",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1",
+    "mustache-express": "^1.3.2"
+  }
+}
